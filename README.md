@@ -1,4 +1,4 @@
-# Hackintosh Opencore EFI
+# Hackintosh OpenCore EFI
 
 My Setup
 
